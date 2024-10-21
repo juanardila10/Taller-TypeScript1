@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #24a2b8; 
+    padding: 10px 10px;
+    font-family: Arial, sans-serif;
+}
+
+.container-fluid {
+    align-items: left; /* Centra verticalmente */
+    margin-right: 0px; /* Espacio entre items */
+  }
+
+.text_tvseries{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.div_table{
+    background-color: aliceblue;
+    margin-left:150px ;
+    margin-top: 50px;
+    margin-right: 1000px;
+}
+.div_avg{
+    margin-left:150px ;
+    margin-right: 1000px;
+}
